@@ -1,5 +1,7 @@
 package test.intellij.delete;
-
+/**
+Class comments
+*/
 public class TimePass {
 
 
